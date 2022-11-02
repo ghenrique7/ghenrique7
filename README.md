@@ -18,7 +18,7 @@
    ⚽ Sou apaixonado por Futebol, e costumo jogar FPS 
     quando estou com tempo livre, para esfriar a mente haha.
     
-   💵 Também gosto muito de investimentos, mercado financeiro e livros.
+   💵 Também gosto muito de investimentos, mercado financeiro e ler livros.
     
 ## Conhecimentos Técnicos
 
