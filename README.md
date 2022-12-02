@@ -15,10 +15,10 @@
     
    👾 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.
     
-   ⚽ Sou apaixonado por Futebol, e costumo jogar FPS 
-    quando estou com tempo livre, para esfriar a mente haha.
+   ⚽ Gosto bastante de Futebol, e jogos de FPS 
+    quando quero esfriar a mente.
     
-   💵 Também gosto muito de investimentos, mercado financeiro e ler livros.
+   💵 Também gosto muito de investimentos (renda fixa, variável), livros e estudar programação.
     
 ## Conhecimentos Técnicos
 
