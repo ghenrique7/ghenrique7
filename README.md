@@ -8,17 +8,8 @@
 
 ## Sobre mim
 
-
-   🏻‍ Eu tive meu primeiro contato com linhas de código recentemente aos 19 anos de idade, larguei a 
-    faculdade de Nutrição para começar a estudar programação e isso foi uma virada de chave em minha vida. Quando percebi 
-    o poder imenso que a programação pode  proporcionar — eu fiquei fascinado.
+    Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web e estou estudando JavaScript. Porém também tenho uma paixão por C e de vez em quando vocês verão alguns projetos nessa linguagem, pois eu enxergo ele como fundamental para o programador que gosta de ter autonomia com seu dódigo e acho que se uma pessoa consegue entender os conceitos e fundamentos de C, ela pode entender qualquer coisa.
     
-   👾 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web e estou estudando JavaScript. Porém também tenho uma paixão por C e de vez em quando vocês verão alguns projetos nessa linguagem, pois eu enxergo ele como fundamental para o programador que gosta de ter autonomia com seu dódigo e acho que se uma pessoa consegue entender os conceitos e fundamentos de C, ela pode entender qualquer coisa.
-    
-   ⚽ Gosto bastante de Futebol, e jogos de FPS 
-    quando quero esfriar a mente.
-    
-   💵 Também gosto muito de investimentos (renda fixa, variável), livros e estudar programação.
     
 ## Conhecimentos Técnicos
 
