@@ -8,9 +8,13 @@
 
 ## Sobre mim
 
-    Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web e estou estudando JavaScript. Porém também tenho uma paixão por C e de vez em quando vocês verão alguns projetos nessa linguagem, pois eu enxergo ele como fundamental para o programador que gosta de ter autonomia com seu dódigo e acho que se uma pessoa consegue entender os conceitos e fundamentos de C, ela pode entender qualquer coisa.
+    Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web e estou estudando JavaScript. 
+    Porém também tenho uma paixão por C e de vez em quando vocês verão alguns projetos nessa linguagem, pois eu enxergo 
+    ele como fundamental para o programador que gosta de ter autonomia com seu dódigo e acho que se uma pessoa consegue 
+    entender os conceitos e fundamentos de C, ela pode entender qualquer coisa.
     
     
 ## Conhecimentos Técnicos
 
-<img src="https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"> <img src="https://camo.githubusercontent.com/26a2d44d15ce047495fe82e6f07d5546a18d229326c87837ace066d930ee7385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
