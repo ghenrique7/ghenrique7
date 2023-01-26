@@ -1,4 +1,3 @@
-# Olá, meu nome é Gabriel Henrique e sou um Desenvolvedor Web!
 <a href = "https://www.youtube.com/channel/UCIQr9bFe6j6ZnPnfj3vkT7Q" rel="nofollow">
    <img src="https://img.shields.io/badge/On1Code-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
  <a href = "https://www.linkedin.com/in/gabrielhenrique/" rel="nofollow">
@@ -8,10 +7,8 @@
 
 ## Sobre mim
 
-    Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web e estou estudando JavaScript. 
-    Porém também tenho uma paixão por C e de vez em quando vocês verão alguns projetos nessa linguagem, pois eu enxergo 
-    ele como fundamental para o programador que gosta de ter autonomia com seu dódigo e acho que se uma pessoa consegue 
-    entender os conceitos e fundamentos de C, ela pode entender qualquer coisa.
+    Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web e foco em me especializar tanto no front-end(frameworks),
+    como no back-end(node.js).
     
     
 ## Conhecimentos Técnicos
