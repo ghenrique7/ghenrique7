@@ -9,7 +9,7 @@
    <h3>Carreira</h3>
     <h4>Atual</h4>
     Tenho como foco principal da minha carreira a área de desenvolvimento web 
-    e foco em me especializar tanto no front-end(frameworks),como no back-end(node.js).
+    e foco em me especializar tanto no front-end(frameworks), como no back-end(node.js).
     <h4>Futuro</h4>   
     Após me especializar em JavaScript, pretendo aprender Java e também tenho interesse
     em aprender Shell, pois é algo na área da computação que eu considero importante
