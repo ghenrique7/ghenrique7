@@ -7,8 +7,8 @@
 
 ## Sobre mim
 
-    Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web e foco em me especializar tanto no front-end(frameworks),
-    como no back-end(node.js).
+    Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web 
+    e foco em me especializar tanto no front-end(frameworks),como no back-end(node.js).
     
     
 ## Conhecimentos Técnicos
