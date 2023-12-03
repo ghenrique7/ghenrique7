@@ -3,8 +3,8 @@
 
 
 ## Sobre mim
-   <h3>Desenvolvedor Web Back-End</h3>
-   <p>Desenvolvedor Laravel e React para criação de sistemas web.</p>
+   <h3>Desenvolvedor Back-End</h3>
+   <p>Ultimamente tenho estudado Laravel e Docker, entusiasta de infraestrutura de software e C++zero nas horas vagas.</p>
     
 ## Stacks
 
